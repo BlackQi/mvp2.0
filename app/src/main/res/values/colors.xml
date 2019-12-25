@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#F040A1</color>
+
+    <color name="loading_bg">#59000000</color>
+    <color name="loading_tv_msg">#ffDDDDDD</color>
+    <color name="transparent">#00000000</color>
+    <color name="base_msg_color">#7c7d8c</color>
+
+    <color name="white">#ffffff</color>
+    <color name="title_color">#333333</color>
+    <color name="spilt_line">#C8C7CC</color>
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyMvpFrame</string>
+
+    <string name="common_loading_message">正在加载中...</string>
+    <string name="common_empty_msg">抱歉,暂未获取到数据!\n请点击屏幕重试~</string>
+    <string name="common_error_msg">暂未连接上网络!\n请链接后击屏幕重试~</string>
+    <string name="common_error_friendly_msg">抱歉,系统开小差了!\n请稍后重试~</string>
+    <string name="common_no_network_msg">暂未连接上网络!\n请连接后点击屏幕重试~</string>
+    <string name="common_no_network_msg_submit">暂未连接网络!\n请连接后重试~</string>
+    <string name="common_click_again_msg">\n请点击屏幕重试~</string>
+
+    <string name="current_internet_invalid">当前网络未连接</string>
+    <string name="internet_base_url_null">baseUrl不能为空</string>
+    <string name="no_network_connection">您还没有链接网络</string>
+    <string name="common_load_more_end">没有更多了</string>
+    <string name="verify_net_failure">链接服务器失败，请稍后再试</string>
+    <string name="net_error">链接服务器失败，请稍后再试</string>
+    <string name="loading_message">正在加载...</string>
+    <string name="loading">正在加载中...</string>
+</resources>
